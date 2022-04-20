@@ -165,7 +165,7 @@ button{
 .btn {
     background-color: transparent;
     margin-right: 3px;
-    border: none;
+    border: none; 
 }
 
     .btn:hover {
